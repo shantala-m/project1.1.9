@@ -25,6 +25,6 @@ Write a list below of all the ideas your team came up with.
 
 Chosen Idea:
 
-Add a new file to your GitHub project of a scretch of your chosen idea.
+Add a new file called "sketch.jpg" to your GitHub project of a scretch of your chosen idea.
 
 Why did you group chose this idea? In other words, why was this idea evaluated higher than your other ideas. Explain with at least 3 sentences.
